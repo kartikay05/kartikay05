@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! 👋 I'm Kartikay Bhardwaj</h1>
-<h3 align="center">🚀 Web Developer | 🎨 Productive Coder | 📍New Delhi,India</h3>
+<h3 align="center">🚀 Web Developer | 🎨 Productive Coder | 📍New Delhi, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=I+love+building+creative+UIs;Web/App-+developer+%7C;React%2C+GSAP%2C+Framer+Motion+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=I+love+building+creative+UIs;Animated/Static+Websites+%7C;JS%2C+React%2C+GSAP%2C+Framer+Motion+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 
