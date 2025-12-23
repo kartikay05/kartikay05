@@ -8,8 +8,8 @@
 
 ### 🔍 About Me
 
-🎓 A frontend developer with a passion for turning ideas into **beautiful, animated interfaces**.  
-💡 I specialize in creating **interactive, scroll-based animations** with **GSAP** and **Framer Motion**.  
+🎓 A Software developer with a passion for turning ideas into **solid, beautiful, animated interfaces**.  
+💡 I specialize in creating **interactive, scroll-based animations** with **GSAP** and **Framer Motion** and a solid base in **Backend development**.  
 📚 Constantly learning and exploring the latest trends in frontend design and performance.  
 🎯 Focused on building smooth user experiences with clean and maintainable code.
 
