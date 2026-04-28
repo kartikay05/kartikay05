@@ -1,47 +1,88 @@
 <h1 align="center">Hey there! 👋 I'm Kartikay Bhardwaj</h1>
-<h3 align="center">🚀 Web Developer | 🎨 Productive Coder | 📍New Delhi, India</h3>
+<h3 align="center">🚀 Full Stack Developer | 💻 MERN Stack | 🎨 Productive Programmer | 📍New Delhi, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=I+love+building+creative+UIs;Animated/Static+Websites+%7C;JS%2C+React%2C+GSAP%2C+Framer+Motion+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;MERN+Stack+Specialist;Backend+Design+%7C+Redis+%7C+Redux;Authentication+%7C+Real-time+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 
 ### 🔍 About Me
 
-🎓 A Software developer with a passion for turning ideas into **solid, beautiful, animated interfaces**.  
-💡 I specialize in creating **interactive, scroll-based animations** with **GSAP** and **Framer Motion** and a solid base in **Backend development**.  
-📚 Constantly learning and exploring the latest trends in frontend design and performance.  
-🎯 Focused on building smooth user experiences with clean and maintainable code.
+🎓 A Full Stack Developer with expertise in **MERN (MongoDB, Express, React, Node.js)** stack.  
+💡 Specialized in **backend design**, **database architecture**, **API development**, and building **scalable web applications**.  
+🔐 Proficient in **JWT Authentication**, **OAuth**, **session management**, and **security best practices**.  
+⚡ Experience with **Redux** for state management, **Redis** for caching and real-time systems.  
+🎨 Equally skilled at crafting **interactive, animated UIs** with **GSAP**, **Framer Motion**, and modern design patterns.  
+📚 Constantly learning about system design, performance optimization, and emerging technologies.  
+🎯 Passionate about writing clean, maintainable, and production-ready code with excellent documentation.
 
 ---
 
 ### ⚒️ Tech Stack & Tools
 
-#### 💻 Languages & Frameworks
+#### 🌐 Frontend Stack
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind--CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
 </p>
 
-#### 🛠 Animation & Creative Tools
+#### 🔧 Backend Stack
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REST--API-FF6B6B?style=flat&logoColor=white"/>
+</p>
+
+#### 🛡️ Authentication & Security
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth2.0-4285F4?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bcrypt-FF6B6B?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sessions-9146FF?style=flat&logoColor=white"/>
+</p>
+
+#### ⚡ Caching & State Management
+<p>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux--Saga-999999?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Context--API-61DAFB?style=flat&logoColor=white"/>
+</p>
+
+#### 🎨 Animation & Creative Tools
 <p>
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black"/>
   <img src="https://img.shields.io/badge/Framer--Motion-black?style=flat&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/ScrollTrigger-FF5E00?style=flat&logoColor=white"/>
 </p>
 
-#### ⚙️ Development Tools
+#### 🛠️ Development Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CPanel-orange?style=flat"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 </p>
+
+---
+
+### 💼 Core Expertise
+
+- **Backend Design & Architecture**: RESTful APIs, Microservices concepts, Database design
+- **Authentication & Authorization**: JWT tokens, OAuth integration, Role-based access control (RBAC)
+- **State Management**: Redux ecosystem, Context API, Redux-Saga for async operations
+- **Caching & Performance**: Redis implementation, In-memory caching strategies, Query optimization
+- **Database Design**: MongoDB schema design, data modeling, indexing strategies
+- **Real-time Systems**: WebSocket implementation, Live notifications, Real-time updates
+- **Frontend Excellence**: Responsive design, Complex animations, Component architecture
 
 ---
 
