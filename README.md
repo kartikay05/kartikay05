@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/REST--API-FF6B6B?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Integration-blue?style=flat&logo=python&logoColor=white"/>
 </p>
 
 #### 🛡️ Authentication & Security
