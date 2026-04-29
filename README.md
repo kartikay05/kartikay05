@@ -129,7 +129,7 @@ But once I finish it, I always laugh and think:
 
 ### ⭐ Let's Collaborate
 
-If you're working on something cool, love frontend magic, or want to collab on creative dev —  
+If you're working on something cool, love to solve real-world problems, or want to collab on creative dev —  
 📩 feel free to connect!
 
 ---
